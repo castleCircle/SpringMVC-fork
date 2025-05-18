@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e09dc00-b066-429b-9285-c465e4d02e02" name="Changes" comment="efef" />
+    <list default="true" id="6e09dc00-b066-429b-9285-c465e4d02e02" name="Changes" comment="efef">
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/wony/MyFileter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/wony/MyFileter.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,14 +15,14 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="test" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2xG99ZveH40sqiU8jn86aS4uO9T" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -29,7 +31,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "test",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/yunseong-won/study/SpringMVC-fork/pom.xml",
     "node.js.detected.package.eslint": "true",
@@ -58,6 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1747553393015</updated>
       <workItem from="1747553394028" duration="4719000" />
+      <workItem from="1747565310020" duration="1945000" />
     </task>
     <servers />
   </component>
